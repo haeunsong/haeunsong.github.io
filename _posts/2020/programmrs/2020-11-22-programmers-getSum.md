@@ -1,6 +1,6 @@
 ---
 title: "[프로그래머스] 두 정수 사이의 합"
-layout: single
+layout: posts
 author_profile: true
 read_time: true
 comments: true
