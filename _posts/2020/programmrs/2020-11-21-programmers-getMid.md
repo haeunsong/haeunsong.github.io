@@ -1,5 +1,5 @@
 ---
-title: "[프로그래머스] 가운데 글자 가져오기"
+title: "[프로그래머스 1단계] 가운데 글자 가져오기"
 layout: single
 author_profile: true
 read_time: true

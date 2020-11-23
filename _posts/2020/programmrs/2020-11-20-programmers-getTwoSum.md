@@ -1,5 +1,5 @@
 ---
-title: "[프로그래머스] 두 개 뽑아서 더하기"
+title: "[프로그래머스 1단계] 두 개 뽑아서 더하기"
 show_date: true
 layout: single
 author_profile: true

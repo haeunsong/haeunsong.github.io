@@ -1,5 +1,5 @@
 ---
-title: "[프로그래머스] 서울에서 김서방 찾기"
+title: "[프로그래머스 1단계] 서울에서 김서방 찾기"
 layout: single
 author_profile: true
 read_time: true

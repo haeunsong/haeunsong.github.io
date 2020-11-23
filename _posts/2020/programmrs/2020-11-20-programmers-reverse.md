@@ -1,5 +1,5 @@
 ---
-title: "[프로그래머스 1단계] 수박수박 문제"
+title: "[프로그래머스 1단계] 문자열 내림차순으로 배치하기"
 show_date: true
 layout: single
 author_profile: true
@@ -19,20 +19,13 @@ categories:
 # toc_label: 목차
 --- 
 
-![수박수박]({{ site.url }}{{ site.baseurl }}./assets/images/post/programmers/수박.PNG){: .align-center .open-new}
-
+![reverse]({{ site.url }}{{ site.baseurl }}./assets/images/post/programmers/reverse.PNG){: .align-center .open-new}
 
 ## 풀이
 ```js
-function solution(n) {
+function solution(s) {
     var answer = '';
-    for(var i=1;i<=n;i++){
-        if(i%2==0){
-            answer+='박'
-        }else{
-            answer+='수'
-        }
-    }
+    answer = s.split('').sort().reverse().join('');  
     return answer;
 }
 ```

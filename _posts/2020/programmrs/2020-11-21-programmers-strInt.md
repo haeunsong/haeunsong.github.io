@@ -1,5 +1,5 @@
 ---
-title: "[프로그래머스] 문자열을 정수로 바꾸기"
+title: "[프로그래머스 1단계] 문자열을 정수로 바꾸기"
 show_date: true
 # layout: single
 # author_profile: true

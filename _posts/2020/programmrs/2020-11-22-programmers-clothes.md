@@ -1,5 +1,5 @@
 ---
-title: "[프로그래머스] 체육복"
+title: "[프로그래머스 1단계] 체육복"
 layout: single
 author_profile: true
 read_time: true
