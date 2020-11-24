@@ -44,4 +44,27 @@ function solution(s, n) {
     return answer;
 }
 ```
-js에서 65<=start<=90 이런식으로 하면 안된다는 것을 깨달았다...     65<=start && start<=90 이런식으로 하나씩 나눠서 해주어야한다. 다음엔 이런 부분때문에 헤매지 말자..
+
+## 다른 풀이
+```js
+function solution(s, n) {
+    var upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+    var lower = "abcdefghijklmnopqrstuvwxyz";
+    var answer= '';
+
+    for(var i =0; i <s.length; i++){
+        var text = s[i];
+        if(text == ' ') {
+            answer += ' '; 
+            continue;
+        }
+        var textArr = upper.includes(text) ? upper : lower;
+        var index = textArr.indexOf(text)+n;
+        if(index >= textArr.length) index -= textArr.length;
+        answer += textArr[index];
+    }
+    return answer;
+}
+```
+
+js에서 65<=start<=90 이런식으로 하면 안된다는 것을 깨달았다...     65<=start && start<=90 이런식으로 하나씩 나눠서 해주어야한다. 다음엔 이런 부분 때문에 헤매지 말자..
