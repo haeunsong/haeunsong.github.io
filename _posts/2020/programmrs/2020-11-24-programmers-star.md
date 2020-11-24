@@ -1,5 +1,5 @@
 ---
-title: "[프로그래머스 1단계] 직사각형 별찍기"
+title: "[1단계] 직사각형 별찍기"
 layout: single
 author_profile: true
 read_time: true

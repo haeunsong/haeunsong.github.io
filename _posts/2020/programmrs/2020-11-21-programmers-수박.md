@@ -1,5 +1,5 @@
 ---
-title: "[프로그래머스 1단계] 수박수박 문제"
+title: "[1단계] 수박수박 문제"
 show_date: true
 layout: single
 author_profile: true

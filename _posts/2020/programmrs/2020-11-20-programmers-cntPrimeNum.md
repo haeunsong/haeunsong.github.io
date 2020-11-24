@@ -1,5 +1,5 @@
 ---
-title: "[프로그래머스 1단계] 소수 찾기"
+title: "[1단계] 소수 찾기"
 show_date: true
 layout: single
 author_profile: true

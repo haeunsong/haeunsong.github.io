@@ -1,5 +1,5 @@
 ---
-title: "[프로그래머스 1단계] 문자열 내 p와 y의 개수"
+title: "[1단계] 문자열 내 p와 y의 개수"
 layout: single
 author_profile: true
 read_time: true

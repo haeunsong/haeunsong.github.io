@@ -1,5 +1,5 @@
 ---
-title: "[프로그래머스 1단계] 나누어 떨어지는 숫자 배열"
+title: "[1단계] 나누어 떨어지는 숫자 배열"
 show_date: true
 layout: single
 author_profile: true

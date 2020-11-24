@@ -1,5 +1,5 @@
 ---
-title: "[프로그래머스 1단계] 모의고사"
+title: "[1단계] 모의고사"
 layout: single
 author_profile: true
 read_time: true

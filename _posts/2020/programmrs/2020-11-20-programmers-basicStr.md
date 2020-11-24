@@ -1,5 +1,5 @@
 ---
-title: "[프로그래머스 1단계] 문자열 다루기 기본"
+title: "[1단계] 문자열 다루기 기본"
 show_date: true
 layout: single
 author_profile: true

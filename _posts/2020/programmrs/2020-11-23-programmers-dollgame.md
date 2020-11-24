@@ -1,5 +1,5 @@
 ---
-title: "[프로그래머스 1단계] 크레인 인형뽑기"
+title: "[1단계] 크레인 인형뽑기"
 layout: single
 author_profile: true
 read_time: true

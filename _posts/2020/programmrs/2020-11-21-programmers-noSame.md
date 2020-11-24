@@ -1,5 +1,5 @@
 ---
-title: "[프로그래머스 1단계] 같은 숫자는 싫어"
+title: "[1단계] 같은 숫자는 싫어"
 show_date: true
 # layout: single
 # author_profile: true
