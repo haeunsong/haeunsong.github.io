@@ -53,7 +53,7 @@ function solution(n) {
 : 자연수 n의 각 자릿수 합을 구해서 리턴한다.
 
 ```js
-// 방법 1 (다른 언어에세도 사용하는 정석적인 방법)
+// 방법 1 (다른 언어에서도 사용하는 정석적인 방법)
 function solution(n){
     var answer = 0;
     while(n!=0){
