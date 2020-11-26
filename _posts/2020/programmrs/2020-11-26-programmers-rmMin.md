@@ -1,5 +1,5 @@
 ---
-title: "[1단계] 제일 작은 수 제거하기"
+title: "[**1단계] 제일 작은 수 제거하기"
 layout: single
 author_profile: true
 read_time: true
