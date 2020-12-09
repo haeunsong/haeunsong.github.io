@@ -8,7 +8,7 @@ show_date: true
 # share: true
 # related: true
 categories: 
-- 프로그래머스
+- 프로그래머스 1단계
 # description: 
 # article_tag1: 
 # article_section: 

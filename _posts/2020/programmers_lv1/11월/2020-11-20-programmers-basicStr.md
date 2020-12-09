@@ -1,5 +1,5 @@
 ---
-title: "[1단계] 문자열 내림차순으로 배치하기"
+title: "[1단계] 문자열 다루기 기본"
 show_date: true
 layout: single
 author_profile: true
@@ -8,7 +8,7 @@ comments: true
 share: true
 related: true
 categories:
-- 프로그래머스
+- 프로그래머스 1단계
 # description: 
 # article_tag1: 
 # article_section: 
@@ -19,13 +19,13 @@ categories:
 # toc_label: 목차
 --- 
 
-![reverse]({{ site.url }}{{ site.baseurl }}./assets/images/post/programmers/reverse.PNG){: .align-center .open-new}
+![basicStr]({{ site.url }}{{ site.baseurl }}./assets/images/post/programmers/basicStr.PNG){: .align-center .open-new}
 
 ## 풀이
 ```js
 function solution(s) {
-    var answer = '';
-    answer = s.split('').sort().reverse().join('');  
-    return answer;
+    var sint = parseInt(s);
+    if ((s.length==4 || s.length==6)&& s==sint) return true;
+    else return false;
 }
 ```

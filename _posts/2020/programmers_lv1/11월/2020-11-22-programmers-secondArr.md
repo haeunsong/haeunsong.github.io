@@ -7,7 +7,7 @@ comments: true
 share: true
 related: true
 categories:
-- 프로그래머스
+- 프로그래머스 1단계
 show_date: true
 
 ---
